@@ -4,3 +4,4 @@
 'xiaobaichi 4'
 'xiaobaichi 5'
 'xiaobaichi 6'
+'xiaobaichi 7'
